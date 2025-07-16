@@ -4,7 +4,7 @@ const authURL = 'http://20.244.56.144/evaluation-service/register';
 
 const authenticationData = {
     email: "justarun0210@gmail.com",
-    name: "Arun J",
+    name: "arun j",
     mobileNo: "9384149692",
     githubUsername: "arun1111j",
     rollNo: "212222040015",
